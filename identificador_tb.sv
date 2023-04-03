@@ -1,4 +1,5 @@
-
+//Autor: Yuri Siqueira Dantas
+// Feito no EDA playground
 
 module tb;
 	logic clk, rst;
